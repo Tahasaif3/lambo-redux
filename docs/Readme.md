@@ -173,13 +173,6 @@ Software Developer | UI Designer
 
 ---
 
-# 📘 Project Submission: Lambo Redux
-**Author:** Muhammad Taha Saif  
-**Program:** UXGenie Internship Project 2  
-**Date:**10 October 2025  
-**Project Title:** *Lambo Redux – Luxury Automotive Website Template*
----
-
 <div align="center">
 
 🖤 *"Power. Precision. Performance. — Lambo Redux redefines the digital garage."* 🖤

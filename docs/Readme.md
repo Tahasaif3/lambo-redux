@@ -95,7 +95,7 @@ Then open your exported `/out` folder for the static version.
 
 ## 📸 Preview Screenshots
 
-| ![Preview](../screenshots/hero.png) 
+| ![Preview](../Screenshots/hero.png) 
 
 > All screenshots are stored in `/screenshots/` (1920x1080 and 390x844).
 

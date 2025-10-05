@@ -141,7 +141,22 @@ lambo-redux/
 ```
 
 ---
+---
 
+## ✅ Final Submission Summary
+
+- **Code:** Complete and responsive (Next.js + Tailwind CSS)  
+- **Builds:** Next.js dynamic build + static HTML export  
+- **Docs:** README.md + installation + license + customization guide  
+- **Assets:** 6 HD screenshots + 1 promo video (15–30s)  
+- **Deployments:**  
+  - Next.js: [https://lambo-redux.vercel.app](https://lambo-redux-project.vercel.app/)  
+  - Static: [https://lambo-redux.netlify.app](https://lembo-redux.netlify.app/)  
+- **Performance:** Lighthouse score > 85  
+- **Accessibility:** WCAG AA compliant  
+- **Marketplace Package:** Ready for listing (zip + media + documentation)
+
+---
 ## 🧾 License
 
 This theme is released under the [MIT License](./LICENSE.md).
@@ -158,12 +173,16 @@ Software Developer | UI Designer
 
 ---
 
+# 📘 Project Submission: Lambo Redux
+**Author:** Muhammad Taha Saif  
+**Program:** UXGenie Internship Project 2  
+**Date:**10 October 2025  
+**Project Title:** *Lambo Redux – Luxury Automotive Website Template*
+---
+
 <div align="center">
 
 🖤 *"Power. Precision. Performance. — Lambo Redux redefines the digital garage."* 🖤
 
 </div>
 ```
-
----
-

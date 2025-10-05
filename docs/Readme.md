@@ -1,6 +1,3 @@
-## 💎 `docs/README.md`
-
-````md
 <div align="center">
 
 # 🏎️ **LAMBO REDUX**
@@ -154,10 +151,10 @@ You may modify and use it in personal or commercial projects.
 
 ## 🧑‍💻 Author
 
-**Muhammad Taha Saif**
-Frontend Developer | UI Designer
-📧 [taha.saif.dev@gmail.com](mailto:taha.saif.dev@gmail.com)
-🌐 [Portfolio](https://my-portfolio-4576f.web.app)
+**Taha Saif**
+Software Developer | UI Designer
+📧 [taha.saif.dev@gmail.com](mailto:tahasaif454@gmail.com)
+🌐 [Portfolio](https://tahaa-portfolio.vercel.app)
 
 ---
 

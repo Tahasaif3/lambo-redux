@@ -17,7 +17,7 @@ A full step-by-step guide for setting up, exporting, and publishing your Lambo R
 
 Clone or extract your files:
 ```bash
-git clone https://github.com/yourusername/lambo-redux.git
+git clone https://github.com/Tahasaif3/lambo-redux.git
 cd lambo-redux
 ````
 

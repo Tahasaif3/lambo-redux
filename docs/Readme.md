@@ -1,17 +1,3 @@
-# 📁 Final `/docs` Package (Premium Design)
-
-## 🏁 Folder Layout
-
-```
-lambo-redux/
-├── docs/
-│   ├── README.md       # Overview & features
-│   ├── INSTALL.md      # Installation + deployment
-│   └── LICENSE.md      # License file
-```
-
----
-
 ## 💎 `docs/README.md`
 
 ````md
